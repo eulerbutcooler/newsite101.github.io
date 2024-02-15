@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Interning at Xu Lab, Carnegie Mellon University
 date: 2023-09-15 16:11:00-0400
 inline: false
 related_posts: false

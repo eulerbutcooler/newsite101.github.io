@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Comparing Nash Equilibrium Convergence for Rock-Paper-Scissors Algorithms
 date: 2023-09-15 15:59:00-
 inline: false
 related_posts: false
