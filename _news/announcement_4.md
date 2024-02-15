@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-### Comparing Nash Equilibrium Convergence for Rock-Paper-Scissors Algorithms 
+### Comparing Nash Equilibrium Convergence for Rock-Paper-Scissors Algorithms
 
 Guided by RA Ritu Rani, Prof. Poonam Bansal
 
